@@ -10,7 +10,7 @@ This project was developed providing hands-on **experience with digital circuits
 ![circuit](circuit.png)
 
 ## 📸 Schematic view
-![Scheme](scheme.png)
+![scheme](scheme.pdf)
 
 ## 🚀 How to run
 
